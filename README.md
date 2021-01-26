@@ -13,8 +13,7 @@
 ## Project Description
 
 ## Assessment
- Prior thought to starting final: Honestly let's see how this goes, I'm very scared, this major is slowly killing me. I still think Dressel is a Ravenclaw. :)
- 
+ This is a project I worked on during college using Cocalc, Python and Jupyter Notebook to represent the chaotic behavior of three real-valued functions. 
 
 ## Honor Pledge
 

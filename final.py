@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-###
-# Name: Amelia Roseto
-#Student ID: 2289652
-#Email: roseto@chapman.edu
-#Course: PHYS220/MATH220/CPSC220 Fall 2018
-#Assignment: FINAL BABY!!!
-###
-
 import pandas as pd
 import numpy as np
 import numba as nb

@@ -3,7 +3,8 @@
 
 ## Specification
 
-file:///Users/mac/Desktop/PHYS220_MATH220_CPSC220__Fall_2018_Final%20(1).pdf
+1. You have two weeks to complete your final project. Work alone.
+1. Follow the instructions in [the project specification](file:///Users/mac/Desktop/PHYS220_MATH220_CPSC220__Fall_2018_Final%20(1).pdf).
 
 ## Project Description
 

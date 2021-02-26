@@ -4,6 +4,7 @@
 ## Specification
 
 Consider the following set of coupled first-order ODEs for three real-valued functions of time x(t), y(t), z(t), with real-valued constants a, b, c, and initial conditions at 
+
                           t = 0: x ̇ = −y − z,  y ̇ = x + a y, z ̇ = b + z(x − c), x(0) = y(0) = z(0) = 0
 
 
